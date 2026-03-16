@@ -1,0 +1,5 @@
+{
+  "name": "OmniTrack",
+  "description": "Analyzes uploaded videos to count people, track entries/exits, analyze audio/conversations, and generate detailed activity reports using Gemini AI.",
+  "requestFramePermissions": []
+}
